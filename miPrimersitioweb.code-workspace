@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../miPrimersitioweb"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ACTIVIDAD CLASE"
+	}
+}
