@@ -14,7 +14,6 @@ crear nuestro repositorio local
 
 
 
-
 * Vamos a escribir los comandos 
 - COMANDOS:
 1. git init
